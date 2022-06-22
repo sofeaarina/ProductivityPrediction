@@ -14,7 +14,9 @@ The structure of the model is fairly simple. Figure below shows the structure of
 
 ![image](https://user-images.githubusercontent.com/63838426/175105722-e04c5a24-a415-4300-81ae-18ebbc8c485a.png)
 ## 4. Results
+
 Below are the result of the training
+
 ![image](https://user-images.githubusercontent.com/63838426/175105693-73ff7e88-d293-4bf4-919e-0542824c4044.png)
 
 ![image](https://user-images.githubusercontent.com/63838426/175105709-98d32452-e5da-4d7e-b25f-86b479d50ecb.png)
